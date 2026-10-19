@@ -1,0 +1,4 @@
+gradio
+PyMuPDF
+deep-translator
+edge-tts
